@@ -113,9 +113,9 @@ hr {
 .hamburger-middle {
     transform: translateY(7px);
 }
-  
+
 .hamburger-bottom {
-  transform: translateY(14px);
+    transform: translateY(14px);
 }
 
 .mobile-menu {
@@ -295,7 +295,7 @@ hr {
 
 /* Newsletter */
 .newsletter hr {
-    margin: 0 auto;
+    margin: 15px auto;
 }
 
 .newsletter-container {
@@ -549,7 +549,7 @@ footer i:hover {
     }
 
     .quote {
-        height: 500px;
+        height: 390px;
         padding-left: 20px;
         padding-right: 20px;
     }
